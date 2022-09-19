@@ -1,0 +1,12 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    letter-spacing: 10px;
+    line-height: 0.8;
+}
